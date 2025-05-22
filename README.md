@@ -1,21 +1,19 @@
-# Alien-Assistance
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=DASTAGEER'S%20PRINCE%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
-**Merci de fork le repo pour plus De mise a jour**🌹
-
-`Dev: Son Altesse Royale👑.`
-
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<img src="https://files.catbox.moe/yjn6dz.jpg"/> 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img 
-  
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<img src=""/> 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+DARK-MD4;WHATSAPP+Alien+x+Assistance+BOT;DEVELOPPER💻+PAR+Son Altesse+Royale." alt="Typing SVG" /></a>
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<div align="center" style="margin: 30px; font-family: 'Segoe UI', sans-serif;">
+    <a href="">
+        <img 
+            alt="Alien  Assistance" 
+            width="720"
+            height="420" 
+            src="https://files.catbox.moe/5xf4iz.jpg" 
+            style="border: 4px solid #FF69B4; 
+                   border-radius: 20px; 
+                   box-shadow: 0 8px 24px rgba(255, 105, 180, 0.3);"
+            onmouseover="this.style.transform='scale(1.03)'; 
+                         this.style.boxShadow='0 12px 32px rgba(255, 105, 180, 0.4)';"
+            onmouseout="this.style.transform='scale(1)'; 
+                        this.style.boxShadow='0 8px 24px rgba(255, 105, 180, 0.3)';"
+        >
+    </a>
 
