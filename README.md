@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=DASTAGEER'S%20PRINCE%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=DASTAGEER'S%20Alien%20Assistance&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 <div align="center" style="margin: 30px; font-family: 'Segoe UI', sans-serif;">
     <a href="">
@@ -16,6 +16,18 @@
                         this.style.boxShadow='0 8px 24px rgba(255, 105, 180, 0.3)';"
         >
     </a>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
