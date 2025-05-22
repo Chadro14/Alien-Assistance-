@@ -1,12 +1,12 @@
 {
-  "name": "ALI-MD",
+  "name": "Alien-Assistance",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By ALI",
+  "description": "A WhatsApp Bot Created By Son Altesse",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name ALI-MD",
-    "stop": "pm2 stop ALI-MD",
-    "restart": "pm2 restart ALI-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ALIEN-Assistance",
+    "stop": "pm2 stop Alien-Assistance",
+    "restart": "pm2 restart Alien-Assistance"
   },
   "dependencies": {
     "@bochilteam/scraper": "3.0.0",
