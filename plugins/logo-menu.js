@@ -49,7 +49,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://cdn.ironman.my.id/i/m8r9ux.jpg` },
+                image: { url: `https://files.catbox.moe/yp0190.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -57,7 +57,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363318387454868@newsletter',
-                        newsletterName: "𝐀ɭīī 𝐌Ɗ 𝐒ʊ̊𝐏𝐏๏፝֟ɼʈ⎯꯭̽🪼🧸₊",
+                        newsletterName: "Alien-Assistance 𝐒ʊ̊𝐏𝐏๏፝֟ɼʈ⎯꯭̽🪼🧸₊",
                         serverMessageId: 143
                     }
                 }
