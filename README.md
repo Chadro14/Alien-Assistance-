@@ -25,7 +25,7 @@
                    
 
 
-# ![PRINCE-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Hello👋!+WELCOME+TO+Alien-Assistance;🪰+Develloppé+by+Son+Altesse+Royale👑+my;⚡+number+•+Whatsapp+🇨🇩243905526836🤳+•+whrite+to,me🫂)
+# ![PRINCE-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Salut👋!+bienvenue+Sur+Alien-Assistance;🪰+Develloppé+par+Son+Altesse+Royale👑+notre;⚡+num+•+Whatsapp+🇨🇩243905526836🤳+•+whrite+to,me🫂)
 
 ---
 
