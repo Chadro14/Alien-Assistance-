@@ -2,13 +2,13 @@ const { cmd } = require("../command");
 
 cmd({
     pattern: "family",
-    desc: "ali Family",
+    desc: "altesse Family",
     category: "fun",
     react: "👨‍👩‍👧‍👦",
     filename: __filename
 }, async (conn, mek, m, { reply }) => {
     const familyList = `
-         *[ • ALI 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
+         *[ • ALTESSE 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
 
     [ • Son ALtesse Royale 👑 ]
        *•────────────•⟢*
