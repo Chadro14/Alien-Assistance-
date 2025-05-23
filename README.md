@@ -18,6 +18,35 @@
     </a>
 
 
+ style="border: 4px solid #FF69B4; 
+                   border-radius: 20px; 
+                   box-shadow: 0 8px 24px rgba(255, 105, 180, 0.3);"
+            onmouseover="this.style.transform='scale(1.03)'; 
+                         this.style.boxShadow='0 12px 32px rgba(255, 105, 180, 0.4)';"
+            onmouseout="this.style.transform='scale(1)'; 
+                        this.style.boxShadow='0 8px 24px rgba(255, 105, 180, 0.3)';"
+        >
+    </a>
+
+# ![PRINCE-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+ASSALAMUALAIKUM!+WELCOME+TO+PRINCE-MD;🔥+ULTIMATE+WHATSAPP+BOT+WITH+300%2B+FEATURES;⚡+FASTEST+•+MOST+ADVANCED+•+USER+FRIENDLY)
+
+---
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
     #Fork pour ne pas rater nos activités 🪰
 
 
