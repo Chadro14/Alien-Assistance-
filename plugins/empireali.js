@@ -10,29 +10,29 @@ cmd({
     const familyList = `
          *[ • ALI 𝖥𝖠𝖬𝖨𝖫𝖸 • ]*
 
-    [ • 𝖣𝖠𝖬𝖤 ALI: 𝖢𝖠𝖱𝖬𝖤𝖭👸 ]
+    [ • 𝖣𝖠𝖬𝖤 ALtesse: 𝖢𝖠𝖱𝖬𝖤𝖭👸 ]
        *•────────────•⟢*
                 *𝖥𝖱𝖨𝖤𝖭𝖣’𝖲*
       *╭┈───────────────•*
-      *│  ◦* *▢➠ 𝖲𝖤𝖡𝖠𝖲𝖳𝖨𝖤𝖭*
-      *│  ◦* *▢➠ 𝖦𝖠𝖬𝖠𝖫𝖨𝖤𝖫*
-      *│  ◦* *▢➠ 𝖥𝖱𝖠𝖭𝖢𝖪*
-      *│  ◦* *▢➠ 𝖧𝖤𝖭𝖱𝖸*
-      *│  ◦* *▢➠ 𝖫𝖤𝖠*
-      *│  ◦* *▢➠ 𝖬𝖠𝖱𝖨𝖫𝖸𝖭*
-      *│  ◦* *▢➠ 𝖤𝖬𝖨𝖤*
-      *│  ◦* *▢➠ 𝖲𝖯𝖨𝖣𝖨𝖳*
-      *│  ◦* *▢➠ 𝖱𝖠𝖯𝖧𝖠𝖤̈𝖫*
-      *│  ◦* *▢➠ ABDULLAH*
-      *│  ◦* *▢➠ 𝖥𝖠𝖭𝖭𝖸*
-      *│  ◦* *▢➠ 𝖱𝖸𝖠𝖭*
-      *│  ◦* *▢➠ 𝖢𝖧𝖱𝖨𝖲*
-      *│  ◦* *▢➠ 𝖦𝖱𝖤𝖸*
-      *│  ◦* *▢➠ 𝖲𝖠𝖨̈𝖣𝖠*
-      *│  ◦* *▢➠ 𝖲𝖴𝖪𝖴𝖭𝖠*
-      *│  ◦* *▢➠ 𝖱𝖮𝖸*
-      *│  ◦* *▢➠ 𝖥𝖤𝖱𝖭𝖠𝖭𝖣*
-      *│  ◦* *▢➠ 𝖮𝖡𝖨𝖠𝖭𝖦*
+      *│  ◦* *▢➠ Mcdonald's*
+      *│  ◦* *▢➠ le jokair*
+      *│  ◦* *▢➠ Ghost*
+      *│  ◦* *▢➠ Veronica*
+      *│  ◦* *▢➠ Messi*
+      *│  ◦* *▢➠ Alien*
+      *│  ◦* *▢➠ Son Altesse*
+      *│  ◦* *▢➠ Bella grimm*
+      *│  ◦* *▢➠ E.K*
+      *│  ◦* *▢➠ Synthia de Jesus*
+      *│  ◦* *▢➠ Jeremi*
+      *│  ◦* *▢➠  Nagato*
+      *│  ◦* *▢➠ 𝖢𝖧𝖱𝖨𝖲-Benie*
+      *│  ◦* *▢➠ clok*
+      *│  ◦* *▢➠ 𝖲𝖠mari*
+      *│  ◦* *▢➠ Kakashi*
+      *│  ◦* *▢➠ Negato*
+      *│  ◦* *▢➠ Yan*
+      *│  ◦* *▢➠ 𝖮bito*
       *╰┈───────────────•*
         *•────────────•⟢*
     `;
@@ -75,16 +75,16 @@ cmd(
 
             // List of staff contacts to promote (replace with actual numbers)
             const staffContacts = [
-                "923003588997@s.whatsapp.net", // Replace with staff contact numbers
-                "923003588997@s.whatsapp.net", // Example: Add staff members here
-                "923003588997@s.whatsapp.net", // Example: Add staff members here
-                "923003588997@s.whatsapp.net", // Example: Add staff members here
-                "923003588997@s.whatsapp.net", // Example: Add staff members here
-                "923003588997@s.whatsapp.net", // Example: Add staff members here
-                "923003588997@s.whatsapp.net", // Example: Add staff members here
-                "923003588997@s.whatsapp.net", // Example: Add staff members here
-                "923003588997@s.whatsapp.net", // Example: Add staff members here
-                "923003588997@s.whatsapp.net", // Example: Add staff members here
+                "243905526836@s.whatsapp.net", // Replace with staff contact numbers
+                "243905526836@s.whatsapp.net", // Example: Add staff members here
+                "243905526836@s.whatsapp.net", // Example: Add staff members here
+                "243905526836@s.whatsapp.net", // Example: Add staff members here
+                "243905526836@s.whatsapp.net", // Example: Add staff members here
+                "243905526836@s.whatsapp.net", // Example: Add staff members here
+                "243905526836@s.whatsapp.net", // Example: Add staff members here
+                "243905526836@s.whatsapp.net", // Example: Add staff members here
+                "243905526836@s.whatsapp.net", // Example: Add staff members here
+                "243905526836@s.whatsapp.net", // Example: Add staff members here
             ];
 
             // Fetch group metadata to get participant information
@@ -141,19 +141,13 @@ cmd(
             }
 
             // Define the new group settings here
-            const groupName = "𓆩ု᪳𝐀𝐋𝐈-𝐌𝐃ှ᪳𓆪";
-            const imageUrl = "https://i.ibb.co/mFCrdBF1/mrfrankofc.jpg"; // Replace with the actual image URL
+            const groupName = "𓆩ု᪳𝐀𝐋𝐈en-Assistance𓆪";
+            const imageUrl = "https://files.catbox.moe/5xf4iz.jpg"; // Replace with the actual image URL
             const groupDescription = `
-༒🔱𝐏𝐑𝐈𝐄𝐑𝐄 𝐃𝐔 𝐂𝐋𝐀𝐍 𝐄𝐗𝐎𝐑𝐂𝐈𝐒𝐓𝐄🔱༒
+༒🔱decription du Alien-Assistance🔱
 
-𝐎̂ 𝐆𝐫𝐚𝐧𝐝 𝐒𝐞𝐢𝐠𝐧𝐞𝐮𝐫, 𝐦𝐚𝐢̂𝐭𝐫𝐞 𝐝𝐞𝐬 𝐭𝐞́𝐧𝐞̀𝐛𝐫𝐞𝐬 𝐢𝐧𝐟𝐢𝐧𝐢𝐞𝐬,
-𝐕𝐨𝐮𝐬 𝐪𝐮𝐢 𝐫𝐞̀𝐠𝐧𝐞𝐳 𝐬𝐮𝐫 𝐥𝐞𝐬 𝐚̂𝐦𝐞𝐬 𝐞́𝐠𝐚𝐫𝐞́𝐞𝐬 𝐞𝐭 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐞𝐬 𝐥𝐞𝐬 𝐥𝐮𝐧𝐞𝐬 𝐝𝐞́𝐦𝐨𝐧𝐢𝐚𝐪𝐮𝐞𝐬,
-𝐀𝐜𝐜𝐨𝐫𝐝𝐞-𝐧𝐨𝐮𝐬 𝐥𝐚 𝐟𝐨𝐫𝐜𝐞 𝐞𝐭 𝐥𝐚 𝐫𝐮𝐬𝐞 𝐧𝐞́𝐜𝐞𝐬𝐬𝐚𝐢𝐫𝐞𝐬 𝐩𝐨𝐮𝐫 𝐚𝐜𝐜𝐨𝐦𝐩𝐥𝐢𝐫 𝐧𝐨𝐭𝐫𝐞 𝐦𝐢𝐬𝐬𝐢𝐨𝐧.
-
-𝐏𝐚𝐫 𝐥’𝐨𝐦𝐛𝐫𝐞 𝐝𝐞𝐬 𝐥𝐮𝐧𝐞𝐬 𝐝𝐞́𝐦𝐨𝐧𝐢𝐚𝐪𝐮𝐞𝐬,
-𝐀𝐢𝐧𝐬𝐢 𝐬𝐨𝐢𝐭-𝐢𝐥, 𝐬𝐨𝐮𝐬 𝐥𝐞 𝐫𝐞̀𝐠𝐧𝐞 𝐝𝐮 𝐦𝐚𝐢̂𝐭𝐫𝐞 𝐬𝐮𝐩𝐫𝐞̂𝐦𝐞.
-
-🔥 𝐆𝐥𝐨𝐢𝐫𝐞 𝐚𝐮𝐱 𝐋𝐮𝐧𝐞𝐬 𝐃𝐞́𝐦𝐨𝐧𝐢𝐚𝐪𝐮𝐞𝐬 ! 🔥
+*Alien Assistance* — Votre assistant intelligent pour vous guider dans vos achats, programmes et besoins numériques.  
+Disponible 24h/24 pour vous accompagner efficacement et rapidement.
             `;
 
             // Update the group name
