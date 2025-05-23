@@ -48,7 +48,7 @@ cmd({
         }
 
         // Image AI à envoyer
-        const ALIVE_IMG = 'https://i.ibb.co/JjD7C5sj/4396ea90a1dcd020.jpg'; // Remplacez par l'URL de votre image AI
+        const ALIVE_IMG = 'https://files.catbox.moe/u88375.jpg'; // Remplacez par l'URL de votre image AI
 
         // Légende avec des informations formatées
         const formattedInfo = `*🤖 ᴄʜᴀᴛ.ɢᴘᴛ ʀᴇsᴘᴏɴsᴇ:*\n\n${gptResponse}`;
@@ -123,7 +123,7 @@ cmd({
         }
 
         // AI image to attach
-        const AI_IMG = 'https://i.ibb.co/JjD7C5sj/4396ea90a1dcd020.jpg'; // Replace with a valid image URL
+        const AI_IMG = 'https://files.catbox.moe/u88375.jpg'; // Replace with a valid image URL
 
         // Formatted response text
         const formattedInfo = `*🤖 ʟʟᴀᴍᴀ3 ʀᴇsᴘᴏɴsᴇ:*\n\n${llamaResponse}`;
