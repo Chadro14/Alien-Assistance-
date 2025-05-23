@@ -63,7 +63,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363318387454868@newsletter',
-          newsletterName: '『 𝐀ɭīī 𝐌Ɗ 𝐒ʊ̊𝐏𝐏๏፝֟ɼʈ 』',
+          newsletterName: '『 𝐀lien-Assistance 𝐒ʊ̊𝐏𝐏๏፝֟ɼʈ 』',
           serverMessageId: 143
         }
       }
